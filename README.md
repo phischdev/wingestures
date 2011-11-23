@@ -7,6 +7,8 @@ Windows can be controlled by pressing the middle mouse button and performing a g
 This repository is a mirror of the original SourceForge project:
 https://sourceforge.net/projects/wingestures/
 
+The extracted v1.0 source tree is in `v1.0/Mausgesten/`.
+
 ## Project Samples
 
 ![MinimizeView](images/MinimizeView.jpg)
