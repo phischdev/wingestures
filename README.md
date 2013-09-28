@@ -1,19 +1,47 @@
 # WinGestures
 
-Archived v1.0 snapshot from SourceForge.
+Archived v2.0 snapshot from CodePlex.
 
-Control Windows with mouse gestures.
+## What is WinGestures?
 
-Status: Beta
+WinGestures is a simple to use tool that makes working with the computer more efficient and easy by mapping often used shortcuts to mouse gestures. When pressing a specific mouse button the window appears. You can navigate through the pages by moving the mouse to the directions shown by the arrows.
 
-Brought to you by: pschi95
+Everyone can easily add functionality to this tool by developing an Extension dll in VB or C# with my already set up template.
 
-Windows can be controlled by pressing the middle mouse button and performing a gesture.
+In the "Downloads" section I provide templates for creating an Extension as well as some examples for that.
 
-I completely rewrote the program from scratch offering new Features and Extensability.
-Visit the new Project on Codeplex:
-http://wingestures.codeplex.com/
+Note: The Project is not yet finished. It's just a preview so far.
+
+Please let me know which functions you'd like me to add and what errors or nonsense you found. Or just tell me your general opinion if you like to.
+
+Philipp Schimmelfennig
+
+## Features
+
+- Multi language support
+- Possibility to change specific values for the behaviour of the program
+- Easily extensible for every area of use
+- Nice Animations
+
+## Change Log
+
+- Now provides the active window's handle to Extensions
+- fixed bug: Settings wouldn't load when WinGestures is started from Desktop
+- updated standard extensions
+
+## To-Do-List
+
+- Rewrite the ViewModel for Extensions for TreeViews in "Settings"
+- Add functionality to manipulate and save the Menus in "Settings"
+- Pass HotKey to active Program if it's just pressed for a certain time
+- Add functionality to provide the active window's handle to the Extensions
+
+## Future Features
+
+- A section that changes with the currently used programm
 
 ## Releases
 
 - `releases/v1.0/WinGestures.msi`
+- `releases/v2.0/setup.exe`
+- `releases/v2.0/Mausgesten 28.09.2013 20.14.zip`
