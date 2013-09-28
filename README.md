@@ -18,3 +18,10 @@ The extracted v1.0 source tree is in `v1.0/Mausgesten/`.
 ## Releases
 
 - `releases/v1.0/WinGestures.msi`
+- `releases/v2.0/setup.exe`
+- `releases/v2.0/Mausgesten 28.09.2013 20.14.zip`
+
+## Source trees
+
+- `v1.0/Mausgesten/`
+- `v2.0/Mausgesten/`
